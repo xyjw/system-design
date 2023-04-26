@@ -1,4 +1,4 @@
-# Django+Vue系统架构设计与实现 本书源码
+# Django Vue系统架构设计与实现 本书源码
 # Overview
 Learn Django+Vue for book--><a href="https://item.jd.com/12604813.html">URL</a>
 <br>
